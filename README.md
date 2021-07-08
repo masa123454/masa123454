@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @masa123454
+- 👋 Hi, I’m MMT Coder
 - 👀 I’m interested in embedded systems
 - 🌱 I’m currently learning embedded c and hardware design
 - 📫 You can send me message on email(mumtaztasdelen1996@gmail.com)
